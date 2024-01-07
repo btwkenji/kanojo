@@ -4,7 +4,7 @@ import (
 	"fmt"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	//"github.com/joho/godotenv"
-	"github.com/kenjitheman/kanojo/openai"
+	"github.com/nezutero/kanojo/openai"
 	"os"
 )
 

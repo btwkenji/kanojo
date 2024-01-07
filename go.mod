@@ -1,4 +1,4 @@
-module github.com/kenjitheman/kanojo
+module github.com/nezutero/kanojo
 
 go 1.21.3
 
